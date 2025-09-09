@@ -33,7 +33,7 @@ Live site 👉 [Acme Rockets](https://tailwind-practice-9jq3.onrender.com/)
 
 ## 🛠️ Technologies Used
 
-- **Tailwind CSS v3**
+- **Tailwind CSS v4** using Tailwind CLI installation
 - **HTML5**
 - **Minimal JavaScript** for menu toggle
 - **Render** for live deployment
