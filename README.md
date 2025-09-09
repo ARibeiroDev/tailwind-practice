@@ -15,7 +15,7 @@ Live site 👉 [Acme Rockets](https://tailwind-practice-9jq3.onrender.com/)
 - ✅ **Fully Responsive Layout**: Adapts seamlessly across devices using Tailwind’s mobile-first approach with breakpoints, Grid, and Flex utilities.
 - 🎨 **Utility-First Styling**: Clean, maintainable markup with no custom CSS — all styling handled through Tailwind's utility classes.
 - 🍔 **Custom Animated Hamburger Menu**:  
-  Built using a single `<div>` and styled with `before` and `after` pseudo-elements, fully animated with Tailwind transitions — no icon libraries used.
+  Built using a single `<section>` and styled with `before` and `after` pseudo-elements, fully animated with Tailwind transitions — no icon libraries used.
 - 🌌 **Modern Hero Section**: Eye-catching hero section with CTA and overlay effects using background utilities and z-index control.
 - 🛰️ **Reusable Components**: Sections (like services, testimonials, call-to-action) created with reusable layout patterns.
 - 💡 **Dark Mode Ready** (optional future upgrade)
